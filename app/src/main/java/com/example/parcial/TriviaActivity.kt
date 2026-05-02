@@ -82,7 +82,6 @@ class TriviaActivity : AppCompatActivity() {
                 aplicarTema(key)
             }
         } else {
-            // Solo si no hay perfil se usa fondo genérico
             aplicarTema()
         }
 

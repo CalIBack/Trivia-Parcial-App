@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Trivia</string>
+
+    <string name="ayuda_nombre">Ingresa tu usuario</string>
+    <string name="error_nombre">Por favor, ingresa tu nombre de usuario</string>
+    <string name="elegir_categoria">Seleccionar categoria!</string>
+    <string name="error_categoria">Debes elegir una categoría de juego</string>
+    <string name="btn_iniciar">Iniciar Trivia</string>
+    <string name="btnTema">Cambiar Tema</string>
+
+    <string name="saludo_bienvenida">¡Hola %1$s! Prepárate para: %2$s</string>
+    <string name="validar_opcion">Validar Respuesta</string>
+    <string name="seleccionar_opcion">Por favor, selecciona una opción</string>
+    <string name="msg_correcto">¡Correcto!</string>
+    <string name="msg_incorrecto">Incorrecto. La respuesta era: %1$s</string>
+
+
+    <string name="cat_seleccionar">Seleccionar categoría</string>
+    <string name="cat_juegos">Juegos</string>
+    <string name="cat_historia">Historia</string>
+    <string name="cat_cine">Cine</string>
+    <string name="cat_musica">Musica</string>
+
+    <string name="trivia_juegos_enunciado">¿Cuál es el fontanero más famoso de los videojuegos?</string>
+    <string name="trivia_juegos_op1">Luigi</string>
+    <string name="trivia_juegos_op2">Mario</string>
+    <string name="trivia_juegos_op3">Waluigi</string>
+    <string name="trivia_juegos_op4">Wario</string>
+
+    <string name="trivia_historia_enunciado">¿Quién descubrió América?</string>
+    <string name="trivia_historia_op1">Cristóbal Colón</string>
+    <string name="trivia_historia_op2">Napoleón</string>
+    <string name="trivia_historia_op3">Julio César</string>
+    <string name="trivia_historia_op4">Leaf Erikson</string>
+
+    <string name="trivia_cine_enunciado">¿Qué actor interpreta a Iron Man?</string>
+    <string name="trivia_cine_op1">Jhonny Depp</string>
+    <string name="trivia_cine_op2">Brad Pitt</string>
+    <string name="trivia_cine_op3">Robert Downey Jr</string>
+    <string name="trivia_cine_op4">Leonardo Di Caprio</string>
+
+    <string name="trivia_musica_enunciado">¿Quién es conocido como el Rey del Pop?</string>
+    <string name="trivia_musica_op1">Michael Jackson</string>
+    <string name="trivia_musica_op2">Bad Bunny</string>
+    <string name="trivia_musica_op3">Prince</string>
+    <string name="trivia_musica_op4">Elvis Presley</string>
+
+</resources>
